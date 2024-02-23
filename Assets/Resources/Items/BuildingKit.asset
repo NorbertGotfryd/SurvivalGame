@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3679ffcbb89bb49abeba09077e9e8c, type: 3}
+  m_Name: BuildingKit
+  m_EditorClassIdentifier: 
+  id: buildingkit
+  type: 1
+  icon: {fileID: 21300000, guid: 54a7c1f646e858a498f1950b8683ff1d, type: 3}
+  dropPrefab: {fileID: 972984091181899504, guid: 51082ad7536991e43b34909fc86c5bd4, type: 3}
+  displayName: Building Kit
+  description: Use to build things.
+  canStack: 0
+  maxStackAmount: 0
+  consumables: []
+  equipPrefab: {fileID: 3799808117001580220, guid: 2545ca782c747e04b9b727a61d4c5657, type: 3}
